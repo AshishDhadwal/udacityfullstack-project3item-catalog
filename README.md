@@ -1,4 +1,4 @@
-# udacity_fullstack_project3
+# Item catalog project
 udacity Full Stack Web Developer Nanodegree Project 3 - Item Catalog
 
 ##Files
