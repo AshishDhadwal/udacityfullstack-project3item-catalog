@@ -43,14 +43,14 @@ github_callback_url = "https://dev.danielburkard.de/github-callback"
 
 reset database:
 ```bash
-[daniel@discodia:catalog] rm catalog.db
-[daniel@discodia:catalog] python addData.py
+[vagrant@vagrant:catalog] rm catalog.db
+[vagrnt@vagrant:catalog] python addData.py
 ```
 
 ##Usage
 start application
 ```bash
-[daniel@discodia:catalog] python application.py
+[vagrant@vagrant:catalog] python application.py
 ```
 
 ##Example
